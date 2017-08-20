@@ -7,6 +7,7 @@ fb:<a href="https://www.facebook.com/mohdshiyas41"> mshiyas </a>
 <br><br>
 ## Introduction to fablab<br>
 fablab AKA fabrication lab is the new phase of manufacturing industries.By the use of fablab we can convert a large scale industry into small scale with high quality prOduct and more profit.<br><br>
+## Syllabus:
 
 Day 1 : Introduction to Fablab 
 
@@ -21,3 +22,13 @@ Day 6 : Electronics Production and CNC
 Day 7 : Vinyl Cutting & Screen Printing
                                 	                                                            
 Project
+## Day 1<br>
+Fab lab @ MESCE is the only Fab Lab in the Malabar region . It was decided to conduct a 2 week training session for the students of the college to famialarize the machines to the students and to provide a hands-on workshop on the same . The equipments in our institution includes :<br>
+### 3D Printer
+<img src="printer-ultimaker.png" height="600" height="700"><br><br>
+### Vinyl Printer
+<img src="roland.jpg" height="600" height="700"><br><br>
+### PCB Milling Machine
+<img src="DSC06420.jpg" height="600" height="700"><br><br>
+## Day2<br>
+Today we learnt how we could document our work and experiences through github pages and how we could essentially use them in the future. The documenting actually feels amazing. It is like writing memories that wouldn’t fade with time. On a serious note, one can always record such experiences and learning and also share.

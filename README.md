@@ -8,3 +8,16 @@ fb:<a href="https://www.facebook.com/mohdshiyas41"> mshiyas </a>
 ## Introduction to fablab<br>
 fablab AKA fabrication lab is the new phase of manufacturing industries.By the use of fablab we can convert a large scale industry into small scale with high quality prOduct and more profit.<br><br>
 
+Day 1 : Introduction to Fablab 
+
+Day 2 : Github Pages and Documentation
+
+Day 3 : 3D Printing
+                                
+Day 5 : Laser Cutting,Moulding and Casting
+                               
+Day 6 : Electronics Production and CNC
+                                
+Day 7 : Vinyl Cutting & Screen Printing
+                                	                                                            
+Project

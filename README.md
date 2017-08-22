@@ -32,12 +32,53 @@ Fab lab @ MESCE is the only Fab Lab in the Malabar region . It was decided to co
 <img src="DSC06420.jpg" height="600" height="700"><br><br>
 ## Day2<br>
 Today we learnt how we could document our work and experiences through github pages and how we could essentially use them in the future. The documenting actually feels amazing. It is like writing memories that wouldn’t fade with time. On a serious note, one can always record such experiences and learning and also share.<br>
-##Day3<br>
+## Day3<br>
 HOW TO USE 3D PRINTER<br>
-Design the work using any of design softwares.
-Save the file in STL format.
-Open the file in ‘CURA’.
-Use the Adjustment Tools to position, scale and rotate the object if desired.
-In the Sidebar, select the nozzle size and material you want to use. Make sure it matches the setup on the printer.
-Select Helper Parts on the Sidebar. Set the desired strength and enable or disable support and build plate adhesion.
-To view the result of the selected profile and support settings, go to the “View mode” and select “Layers”. In the bottom right corner, select “Save file” or “Save to USB” to save the print file.<br>
+Design the work using any of design softwares.<br>
+Save the file in STL format.<br>
+Open the file in ‘CURA’.<br>
+Use the Adjustment Tools to position, scale and rotate the object if desired.<br>
+In the Sidebar, select the nozzle size and material you want to use. Make sure it matches the setup on the printer.<br>
+Select Helper Parts on the Sidebar. Set the desired strength and enable or disable support and build plate adhesion.<br>
+To view the result of the selected profile and support settings, go to the “View mode” and select “Layers”. In the bottom right corner, select.<br>
+"Save file” or “Save to USB” to save the print file.<br>
+## Day4<br>
+Today we studied about vinyl cutting machine and the laser cutter.<br>
+The following are the steps to do vinyl cutter.<br><br>
+## To cut texts: <br>
+Open Cut Studio.<br>
+Select the Text option.<br>
+Type the text to be printed.<br>
+Select the text and go to the Properties option to change the font size and style.<br> 
+Press Ok button.<br>
+## Printing images:
+You can also print images just like texts. Follow these steps to print images using 3D printer.<br>
+You can design your file in any of the design softwares or transform a photo file into a design.<br>
+First download or select the required image.<br>
+Open it in any photo editting softwares.<br>
+Select click on ‘Image processing’ and select ‘NEON’ to get the outline.<br>
+Delete the original image.<br>
+Adjust the height and width according to your wish.<br>
+Select ‘Print’ from ‘FILE’ menu.<br>
+Select the Vinyl printer from print setup.<br><br>
+## Printing using vinyl printer:<br><br>
+Power on the printer.<br>
+Release the sheet holder and keep the sheet inside the printer.<br>
+Adjust the length of work by changing the position of limiters.<br>
+Always ensure that the limiters are in between the white marks in the printer.<br>
+Now engage the sheet holder.<br>
+Select the type of the sheet(roll, piece, edge) in which the work is to be done.<br>
+Now set the point to start the work by using the navigation button on the machine.<br>
+Long press ‘Origin’ button to set the origin.<br>
+Now click ‘Print’ from the File menu<br>
+Release the sheet holder after printing and cut out the required portion from the sheet.<br>
+Now cover the cut out portion using a masking sheet.<br>
+After removing the masking sheet the required portion to be pasted will hold on to the mask.<br>
+Now stick mask sheet on required place and remove the mask sheet using small forceps.<br><br>
+## How to use Laser Cutter<br><br>
+Load the design file using any designing softwares.<br>
+Select the Print option from the File menu.<br>
+Select the laser cutter from Select printer menu.<br>
+Choose the required power and speed.<br>
+Choose between Vector and Raster options.<br>
+
